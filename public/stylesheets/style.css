@@ -6,3 +6,17 @@ body {
 a {
   color: #00B7FF;
 }
+
+.card {
+  overflow: hidden;
+  width: 75%;
+  height: 12em;
+}
+
+.card2{
+  width: 75%;
+  height: 5em;
+}
+
+p {
+}
